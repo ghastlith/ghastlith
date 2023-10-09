@@ -14,6 +14,7 @@
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img alt="java" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/java/java-original.svg" style="padding-right:10px;" /></a>
   <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img alt="python" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/python/python-original.svg" style="padding-right:10px;" /></a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript"><img alt="javascript" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/javascript/javascript-original.svg" style="padding-right:10px;" /></a>
   <a href="https://en.wikipedia.org/wiki/Svelte"><img alt="svelte" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/svelte/svelte-original.svg" style="padding-right:10px; " /></a>
 </p>
 <br/>
