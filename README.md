@@ -1,7 +1,7 @@
 <a href="https://youtu.be/B4-BgDEy2AE">
   <img alt="header" src="./.github/assets/the-stage-is-set.png" width="100%"/>
 </a>
-<p style="font-size:1.5rem;">I'm a developer in search of technological knowledge, mainly in <ins>information security</ins>. With a certain passion for <ins>puzzles</ins> and <ins>riddles</ins>, which drives me to always look for a solution to the next <ins>challenge</ins>.</p>
+<p style="font-size:1.5rem;">I'm a developer in search of technological knowledge, mainly in <ins>cybersecurity</ins>. With a certain passion for <ins>puzzles</ins> and <ins>riddles</ins>, which drives me to always look for a solution to the next <ins>challenge</ins>.</p>
 <br/>
 <details>
   <summary>blarknes@blarknes:~$ git status</summary>
