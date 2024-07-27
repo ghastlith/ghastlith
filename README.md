@@ -1,4 +1,4 @@
-<a href="https://youtu.be/B4-BgDEy2AE" target="_blank">
+<a href="https://youtu.be/B4-BgDEy2AE">
   <img alt="header" src="./.github/assets/the-stage-is-set.png" width="100%"/>
 </a>
 <br/>
