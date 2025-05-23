@@ -17,9 +17,9 @@
   <a href="https://en.wikipedia.org/wiki/Kotlin_(programming_language)"><img alt="kotlin" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/kotlin/kotlin-original.svg" style="padding-right:10px;" /></a>
 </p>
 <p align="left">
+  <a href="https://en.wikipedia.org/wiki/Svelte"><img alt="svelte" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/svelte/svelte-original.svg" style="padding-right:10px; " /></a>
   <a href="https://en.wikipedia.org/wiki/JavaScript"><img alt="javascript" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/javascript/javascript-original.svg" style="padding-right:10px;" /></a>
   <a href="https://en.wikipedia.org/wiki/TypeScript"><img alt="typescript" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/typescript/typescript-original.svg" style="padding-right:10px;" /></a>
-  <a href="https://en.wikipedia.org/wiki/Svelte"><img alt="svelte" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/svelte/svelte-original.svg" style="padding-right:10px; " /></a>
 </p>
 <br/>
 <br/>
