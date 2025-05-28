@@ -16,25 +16,25 @@
 </details>
 <br />
 <p align="left">
-  <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank">
-    <img alt="java" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/java/java-original.svg" style="margin-right: 10px;" />
+  <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank" style="margin-right: 10px;">
+    <img alt="java" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/java/java-original.svg" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank">
-    <img alt="python" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/python/python-original.svg" style="margin-right: 10px;" />
+  <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank" style="margin-right: 10px;">
+    <img alt="python" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/python/python-original.svg" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/Kotlin_(programming_language)" target="_blank">
-    <img alt="kotlin" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/kotlin/kotlin-original.svg" style="margin-right: 10px;" />
+  <a href="https://en.wikipedia.org/wiki/Kotlin_(programming_language)" target="_blank" style="margin-right: 10px;">
+    <img alt="kotlin" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/kotlin/kotlin-original.svg" />
   </a>
 </p>
 <p align="left">
-  <a href="https://en.wikipedia.org/wiki/Svelte" target="_blank">
-    <img alt="svelte" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/svelte/svelte-original.svg" style="margin-right: 10px; " />
+  <a href="https://en.wikipedia.org/wiki/Svelte" target="_blank" style="margin-right: 10px;">
+    <img alt="svelte" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/svelte/svelte-original.svg" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
-    <img alt="javascript" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/javascript/javascript-original.svg" style="margin-right: 10px;" />
+  <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" style="margin-right: 10px;">
+    <img alt="javascript" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/javascript/javascript-original.svg" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/TypeScript" target="_blank">
-    <img alt="typescript" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/typescript/typescript-original.svg" style="margin-right: 10px;" />
+  <a href="https://en.wikipedia.org/wiki/TypeScript" target="_blank" style="margin-right: 10px;">
+    <img alt="typescript" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/typescript/typescript-original.svg" />
   </a>
 </p>
 <br />
