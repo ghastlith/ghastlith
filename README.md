@@ -5,6 +5,7 @@
 <br />
 <details open>
   <summary>blarknes@hell - [~]: $ git status</summary>
+  <br />
   <a href="https://github.com/blarknes?tab=repositories">
     <img height=90 src="https://skillicons.dev/icons?i=java,python,kotlin,svelte,js,ts&perline=3" />
   </a>
