@@ -3,15 +3,12 @@
 </a>
 <br />
 <br />
-<details>
+<details open>
   <summary>blarknes@hell - [~]: $ git status</summary>
   <a href="https://github.com/blarknes?tab=repositories">
-    <img height=160 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=blarknes&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_title=true&hide_rank=true&card_width=284" />
-    <img height=160 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=blarknes&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_title=true&hide_rank=true&card_width=284&layout=compact&langs_count=8" />
+    <img height=90 src="https://skillicons.dev/icons?i=java,python,kotlin,svelte,js,ts&perline=3" />
   </a>
 </details>
-<br />
-<img height=100 src="https://skillicons.dev/icons?i=java,python,kotlin,svelte,js,ts&perline=3" />
 <br />
 <br />
 <br />
