@@ -6,8 +6,10 @@
 <details>
   <summary>blarknes@hell - [~]: $ git status</summary>
   <p>
-    <img height=160 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=blarknes&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_title=true&hide_rank=true&card_width=284" />
-    <img height=160 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=blarknes&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_title=true&hide_rank=true&card_width=284&layout=compact&langs_count=8" />
+    <a href="https://github.com/blarknes?tab=repositories">
+      <img height=160 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=blarknes&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_title=true&hide_rank=true&card_width=284" />
+      <img height=160 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=blarknes&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_title=true&hide_rank=true&card_width=284&layout=compact&langs_count=8" />
+    </a>
   </p>
 </details>
 <br />
