@@ -14,4 +14,4 @@
 <br />
 <br />
 <br />
-<p align="right">“We’re all <ins><b>living</b></ins> in each other’s <i><b>paranoia</b></i>.” - Alderson, Elliot</p>
+<p align="right">“We’re all <ins><b>living</b></ins> in each other’s <i><b>paranoia</b></i>.” — Alderson, Elliot</p>
