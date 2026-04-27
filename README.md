@@ -7,7 +7,7 @@
   <summary>ghastlith@hell - [~]: $ git status</summary>
   <br />
   <a href="https://github.com/ghastlith?tab=repositories">
-    <img height=90 src="https://skillicons.dev/icons?i=java,python,kotlin,svelte,js,ts&perline=3" />
+    <img height=90 src="https://skillicons.dev/icons?i=java,python,kotlin,svelte,ts,js&perline=3" />
   </a>
 </details>
 <br />
