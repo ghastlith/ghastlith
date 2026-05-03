@@ -6,7 +6,7 @@
 <details open>
   <summary>ghastlith@hell - [~]: $ git status</summary>
   <br />
-  <a href="https://github.com/ghastlith?tab=repositories">
+  <a href="https://github.com/ghastlith?tab=repositories&sort=name">
     <img height=90 src="https://skillicons.dev/icons?i=java,python,kotlin,svelte,ts,js&perline=3" />
   </a>
 </details>
